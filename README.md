@@ -1,5 +1,7 @@
 # Front CCoin
 
-## MOBILE
+## Mobile
+![](./git/catalgo.gif)
 
-## WEB
+
+## Web
