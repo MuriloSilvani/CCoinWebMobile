@@ -3,13 +3,13 @@
 ## Mobile
 
 #### Login
-![start](./git/login.gif)
+![start](./git/login.gif | width=100)
 
 #### Menu
 ![start](./git/menu.gif)
 
-#### Catalgo
-![start](./git/catalgo.gif)
+#### Catalogo
+![start](./git/catalogo.gif)
 
 #### Extrato
 ![start](./git/extrato.gif)
