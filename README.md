@@ -3,7 +3,7 @@
 ## Mobile
 
 #### Login
-![start](./git/login.gif | width=100)
+![start](./git/login.gif){:height="50%" width="50%"}
 
 #### Menu
 ![start](./git/menu.gif)
