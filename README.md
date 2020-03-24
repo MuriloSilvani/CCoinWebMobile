@@ -3,7 +3,7 @@
 ## Mobile
 
 #### Login
-<img src='./git/login.gif'/>
+<img style='width:50%' src='./git/login.gif'/>
 
 ![start](./git/login.gif)
 
