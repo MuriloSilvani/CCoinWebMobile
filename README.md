@@ -3,6 +3,8 @@
 ## Mobile
 
 #### Login
+<img src='./git/login.gif'/>
+
 ![start](./git/login.gif)
 
 #### Menu
