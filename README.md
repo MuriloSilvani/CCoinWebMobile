@@ -1,23 +1,17 @@
-# Front CCoin
-
 ## Mobile
+> Login
+<img width='20%' src='./git/login.gif'/>
 
-#### Login
-<img style='width:100px' src='./git/login.gif'/>
+> Menu
+<img width='20%' src='./git/menu.gif'/>
 
-![start](./git/login.gif)
+> Catalogo
+<img width='20%' src='./git/catalogo.gif'/>
 
-#### Menu
-![start](./git/menu.gif)
+> Extrato
+<img width='20%' src='./git/extrato.gif'/>
 
-#### Catalogo
-![start](./git/catalogo.gif)
-
-#### Extrato
-![start](./git/extrato.gif)
-
-#### Transferencia
-![start](./git/transferencia.gif)
-
+> Transferencia
+<img width='20%' src='./git/transferencia.gif'/>
 
 ## Web
