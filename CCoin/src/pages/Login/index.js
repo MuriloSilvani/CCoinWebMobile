@@ -11,7 +11,7 @@ export default function Login({ navigation }) {
 
     const dispatch = useDispatch();
 
-    const [login, setLogin] = useState('murilo');
+    const [login, setLogin] = useState('murilo@compasso.com.br');
     const [senha, setSenha] = useState('123');
     const [erro, setErro] = useState('');
 
